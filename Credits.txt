@@ -1,0 +1,8 @@
+Project Lead - Donovan Colen
+AI Programmer - Donovan Colen
+UI Programmer - Michael Taylor
+Player Control Programmer - Aaron Peneueta
+Camera Control Programmer - Aaron Peneueta
+Main Scene Design - Donovan Colen
+Pirate Island Design - Michael Taylor
+Assets - Synty Studios
